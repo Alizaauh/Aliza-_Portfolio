@@ -1,0 +1,27 @@
+.App{
+    border: 2px solid black;
+    margin: 20px 10px 10px 20px;
+    padding: 20px;
+    background-color: rgb(149, 184, 240);
+}
+.footer{
+    border: 2px solid rgb(0, 0, 0);
+    margin: 20px 10px 10px 20px;
+    padding: 20px;
+    background-color: rgb(190, 232, 248);
+    text-align: center;
+    font-size: xx-large;
+}
+#btn{
+  background-color: brown;
+  color: bisque;
+  margin: 20px 20px;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+}
+#btn:hover{
+background-color: blue;
+}

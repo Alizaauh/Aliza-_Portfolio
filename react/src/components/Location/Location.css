@@ -1,0 +1,10 @@
+.Locationcontainer {
+     border: 2px solid black;
+    margin: 20px 10px 10px 20px;
+    padding: 20px;
+    background-color: rgb(149, 184, 240);
+    padding: 20px;
+    text-align: center;
+    font: times new roman;
+    font-size: xx-large;
+}
