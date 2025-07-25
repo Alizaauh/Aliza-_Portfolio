@@ -5,7 +5,7 @@ import profileImg from "../../../src/assets/aliza.jpeg";
 const Home = () => {
     return (
         <div>
-            <selection className="home">
+            <section className="home">
                 <div className="home-content">
                     <h1> HI, I am Aliza Adhikari</h1>
                     <h2> IT Student</h2>
@@ -21,7 +21,7 @@ const Home = () => {
                     <img src={profileImg} alt="Aliza Adhikari" />
                 </div>
 
-            </selection>
+            </section>
         </div>
     );
 };
